@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John 'OtzoLive' Waters</h1>
 <h3 align="center">Currently a data analyst, working to become a Frontend Developer</h3>
 
-- 🌱 I’m currently learning **T-SQL and REST API.**
+- 🌱 I’m currently learning **T-SQL and Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OtzoLive](https://github.com/OtzoLive)
 

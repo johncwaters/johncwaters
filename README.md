@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm John 'OtzoLive' Waters</h1>
 <h3 align="center">Currently a data analyst, working to become a Frontend Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/otzolive" target="blank"><img src="https://img.shields.io/twitter/follow/otzolive?logo=twitter&style=for-the-badge" alt="otzolive" /></a> </p>
-
 - 🌱 I’m currently learning **T-SQL and REST API.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OtzoLive](https://github.com/OtzoLive)

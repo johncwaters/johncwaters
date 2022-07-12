@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/OtzoLive](https://github.com/OtzoLive)
 
-- 📫 How to reach me **john@johncwaters.com**
+- 📫 Reach me at **john@johncwaters.com**
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 

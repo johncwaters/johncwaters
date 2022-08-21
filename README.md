@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm John 'Otzo' Waters</h1>
+<h1 align="center">Hi 👋, I'm John C. Waters</h1>
 <h3 align="center">Currently a data analyst, working to become a Frontend Developer / UX Designer</h3>
 
-- 🌱 I’m currently learning **T-SQL and Javascript**
+- 🌱 I’m currently learning **T-SQL, Javascript, and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/OtzoLive](https://github.com/OtzoLive)
+- 👨‍💻 All of my projects are available at [https://github.com/johncwaters](https://github.com/johncwaters)
 
 - 📫 Reach me at **john@johncwaters.com**
 

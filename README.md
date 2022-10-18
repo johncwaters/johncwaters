@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John C. Waters</h1>
-<h3 align="center">Currently a data analyst, working to become a Frontend Developer / UX Designer</h3>
+<h3 align="center">Currently a Data Analyst, working to become a Frontend Developer / UX Designer</h3>
 
 - 🌱 I’m currently learning **T-SQL, Typescript, ESRI, and PowerBI**
 

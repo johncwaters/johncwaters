@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm John C. Waters</h1>
-<h3 align="center">Currently a Data Analyst, working to become a Frontend Developer / UX Designer</h3><br><br>- 🌱 I’m currently learning **Typescript, React, NextJs, Astro, and C#**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/johncwaters](https://github.com/johncwaters)<br><br>- 📫 Reach me at **john@johncwaters.com**
+<h3 align="center">Software Developer with a focus on Frontend and UX</h3><br><br>- 🌱 I’m currently learning **Typescript, React, NextJs, Astro, and C#**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/johncwaters](https://github.com/johncwaters)<br><br>- 📫 Reach me at **john@johncwaters.com**
 
 
 ## 🌐 Socials:

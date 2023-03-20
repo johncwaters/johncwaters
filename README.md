@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 <h1 align="center">Hi 👋, I'm John C. Waters</h1>
 <h3 align="center">I'm a Software Developer with a focus on Frontend and UX</h3>
 

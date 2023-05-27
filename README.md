@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm John C. Waters</h1>
 <h3 align="center">I'm a Software Developer with a focus on Frontend and UX</h3>
 
-<br><br>- 🌱 I’m currently learning **Typescript, React, NextJs, Astro, and C#**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/johncwaters](https://github.com/johncwaters)<br><br>- 📫 Reach me at **john@johncwaters.com**
+<br><br>- 🌱 I’m currently learning **Typescript, React, NextJs, Astro, and UX Design**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/johncwaters](https://github.com/johncwaters)<br><br>- 📫 Reach me at **john@johncwaters.com**
 
 
 ## 🌐 Socials:

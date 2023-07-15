@@ -15,7 +15,7 @@ Hello there! I'm John, an experienced software developer who loves to turn ideas
 
 I am passionate about developing software with clean and efficient code and creating intuitive user experiences. Nothing bugs me more than website or system with abysmal user experiences. That is how you get people to quickly stop using your product. 
 
-### 📚 Currently Learning
+### 📚 ~~Currently~~ Constantly Learning
 
 - **Typescript** - for strong static typing.
 - **C# .Net Core** - for Microsoft specific solutions

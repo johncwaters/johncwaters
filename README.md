@@ -11,7 +11,7 @@
 
 ## About Me
 
-Hello there! I'm John, an experienced software developer who loves to turn ideas into reality using my programming skills. I'm always learning something new and currently expanding my knowledge in **Typescript, React, NextJs, Astro, and UX Design**.
+Hello there! I'm John, a software developer who loves to turn ideas into reality using my programming skills. I'm always learning something new and currently expanding my knowledge in **Typescript, React, NextJs, Astro, and UX Design**.
 
 I am passionate about developing software with clean and efficient code and creating intuitive user experiences. Nothing bugs me more than website or system with abysmal user experiences. That is how you get people to quickly stop using your product. 
 

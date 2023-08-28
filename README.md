@@ -21,7 +21,7 @@ I am passionate about developing software with clean and efficient code and crea
 - **C# .Net Core** - cause it's useful.
 - **Astro** - for fast, optimized frontend delivery (and cause space themed 🚀).
 - **UX Design** - to understand user needs and behaviours better (no more abysmal experiences plz).
-- - **React** - to build interactive UIs (cause 'everyone' is using it).
+- **React** - to build interactive UIs (cause 'everyone' is using it).
 - **NextJs** - cause I need to expand from Astro.
 
 ---

@@ -19,10 +19,10 @@ I am passionate about developing software with clean and efficient code and crea
 
 - **Typescript** - for strong static typing.
 - **C# .Net Core** - cause it's useful.
-- **React** - to build interactive UIs (cause 'everyone' is using it).
-- **NextJs** - for server-side rendering.
 - **Astro** - for fast, optimized frontend delivery (and cause space themed 🚀).
 - **UX Design** - to understand user needs and behaviours better (no more abysmal experiences plz).
+- - **React** - to build interactive UIs (cause 'everyone' is using it).
+- **NextJs** - cause I need to expand from Astro.
 
 ---
 

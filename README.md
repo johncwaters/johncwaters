@@ -11,9 +11,11 @@
 
 ## About Me
 
-Hello there! I'm John, a software developer who loves to turn ideas into reality using my programming skills. 
+Hello there!
 
-I am passionate about developing software with clean and efficient code and creating intuitive user experiences. Nothing bugs me more than website or system with an abysmal user experiences. That is how you get people to quickly stop using your product. 
+Nothing bugs me more than a website or system with an abysmal user experiences. That is how you get people to quickly stop using your product/solution. I am passionate about developing software with simple code and creating an intuitive user experiences. 
+
+I spend my spare time with my family, playing Table Tennis or video games, and listening to music. Preferably all at the same time.
 
 ### 📚 ~~Currently~~ Constantly Learning
 

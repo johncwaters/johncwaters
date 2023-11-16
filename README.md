@@ -1,6 +1,6 @@
 # Greetings from John C. Waters! 👋
 
-**Software Developer 💻 | Likes Frontend 🌐 | UX Design Aficionado/Wanna-be 🎨**
+**Software Developer 💻 | Likes Frontend 🌐 | UI/UX Design Aficionado/Wanna-be 🎨**
 
 ---
 

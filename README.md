@@ -13,18 +13,19 @@
 
 Hello there!
 
-Nothing bugs me more than a website or system with an abysmal user experiences. That is how you get people to quickly stop using your product/solution. I am passionate about developing software with simple code and creating an intuitive user experiences. 
+Nothing bugs me more than a website or system with an abysmal user experiences. That is how you get people to quickly stop using your product/solution. I am passionate about developing software with an intuitive user experiences. 
 
 I spend my spare time with my family, playing Table Tennis or video games, and listening to music. Preferably all at the same time.
 
 ### 📚 ~~Currently~~ Constantly Learning
 
 - **Typescript** - for strong static typing.
-- **C# .Net Core** - cause it's useful.
 - **Astro** - for fast, optimized frontend delivery (and cause space themed 🚀).
-- **UX Design** - to understand user needs and behaviours better (no more abysmal experiences plz).
+- **UX / UI Design** - to understand user needs and behaviours better (no more abysmal experiences plz).
+- **Esri JS SDK** - maps are cool
 - **React** - to build interactive UIs (cause 'everyone' is using it).
 - **NextJs** - cause I need to expand from Astro.
+- **C# .Net Core** - cause it's useful.
 
 ---
 

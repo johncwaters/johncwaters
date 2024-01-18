@@ -17,37 +17,5 @@ Nothing bugs me more than a website or system with an abysmal user experiences. 
 
 I spend my spare time with my family, playing Table Tennis or video games, and listening to music. Preferably all at the same time.
 
-### 📚 ~~Currently~~ Constantly Learning
-
-- **Typescript** - for strong static typing.
-- **Astro** - for fast, optimized frontend delivery (and cause space themed 🚀).
-- **UX / UI Design** - to understand user needs and behaviours better (no more abysmal experiences plz).
-- **Esri JS SDK** - maps are cool
-- **React** - to build interactive UIs (cause 'everyone' is using it).
-- **NextJs** - cause I need to expand from Astro.
-- **C# .Net Core** - cause it's useful.
-
----
-
-## 📮 Contact Me
-
-📧 Feel free to reach me at: **john@johncwaters.com**
-
----
-
-## 📌 Tech Stack
-
-I have experience working with the following technologies:
-
-`CSS3`, `JavaScript`, `TypeScript`, `Azure`, `Netlify`, `Next JS`, `React`, `TailwindCSS`, `Supabase`, `Microsoft SQL Server`, `ESLint`, `Postman`, `HTML5`, `Vercel`, `Canva`, `NodeJS`, `.Net`, `C# .Net Core`
-
----
-
-## 💼 Projects
-
-Explore my public projects on my website: [www.johncwaters.com](https://johncwaters.com/)
-
----
-
 **GLHF**
 

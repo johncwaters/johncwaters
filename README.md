@@ -1,9 +1,7 @@
 
-Greetings!
+Platform Team Lead at ELM Companies, based in Montana. I build modern Azure-driven solutions and the internal tools that make development teams move faster. Yes, that includes agents. 
 
-As a software developer, my ultimate pet peeve is encountering a website or system plagued by poor user experience – it's a surefire way to drive users away from any product or solution. My passion lies in crafting software that boasts an intuitive and engaging user experience. 
-
-In my leisure hours, you'll find me enjoying a blend of family time, indulging in table tennis or video games, and listening to good music. Preferably all at the same time.
+Open to connecting. Reach me at john@johncwaters.com.
 
 **GLHF**
 
